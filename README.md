@@ -1,0 +1,2 @@
+# sentiment-analysis-on-twitter-dataset
+we have downloaded a kaggle dataset whose link is: https://www.kaggle.com/youben/twitter-sentiment-analysis/data This datset is having train and test csv files that contains around 400k tweets. In this Dataset-  0  ->  negative tweet   1  ->  positive tweet  for easy computing, i have taken only 40k dataset from train csv file and perfrom the machine learning algorithm over that and found out the accuracy. we have also performed gridsearch for tuning the parameters for increasing accuracy.
